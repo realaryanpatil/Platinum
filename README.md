@@ -2,9 +2,9 @@
 ![Shield](https://img.shields.io/aur/license/android-studio)
 ![shield](https://img.shields.io/github/repo-size/realaryanpatil/Platinum)
 
-![shield](https://img.shields.io/badge/Language-Python3)
+![shield](https://img.shields.io/badge/Language-Python3-x)
 
-![shield](https://img.shields.io/badge/Modules%20Used-blue)
+![shield](https://img.shields.io/badge/Modules%20Used-x)
 ![shield](https://img.shields.io/badge/Pandas-blue)
 ![shield](https://img.shields.io/badge/sklearn-blue)
 
