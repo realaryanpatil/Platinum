@@ -16,5 +16,5 @@ Platinum aims to educate on the applications of Machine Learning in Medicine. We
 ## Acknowledgements
 liver.csv was obtained from Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
-heart.csv was obtained from Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020) [https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5]
+medical.csv was obtained from Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020) [https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5]
 
