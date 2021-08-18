@@ -8,10 +8,10 @@
 ![shield](https://img.shields.io/badge/Pandas-blue)
 ![shield](https://img.shields.io/badge/sklearn-blue)
 
+### This is my Class 12 CS project, along with Priyansh Mishra and Rithwik Anand. Platinum is a Machine Learning Program that uses the Naïve-Bayes Classification Algorithm to assess the risk of heart failure and liver disease.
+
 ## Aim
 The aim of this project is to create a Machine Learning Algorithm using python to predict heart failure and liver disease.
-
-### This is my Class 12 CS project, along with Priyansh Mishra and Rithwik Anand. Platinum is a Machine Learning Program that uses the Naïve-Bayes Classification Algorithm to assess the risk of heart failure and liver disease.
 
 ### Disclaimer
 Platinum aims to educate on the applications of Machine Learning in Medicine. We are not doctors. Please consult your doctor if you have any concerns.
