@@ -13,9 +13,9 @@
 ### Disclaimer
 Platinum aims to educate on the applications of Machine Learning in Medicine. We are not doctors. Please consult your doctor if you have any concerns.
 
-## How to use
-### The easy way
-#### Step 1. Click on the Google Colaboratory link on the right side of the repository.
+# How to use
+## The easy way
+### Step 1. Click on the Google Colaboratory link on the right side of the repository.
 ![alt text](https://github.com/realaryanpatil/Platinum/blob/master/media1.png?raw=true)
 
 ## Acknowledgements
