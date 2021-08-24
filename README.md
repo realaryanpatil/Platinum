@@ -16,7 +16,7 @@ Platinum aims to educate on the applications of Machine Learning in Medicine. We
 ## How to use
 ### The easy way
 #### Step 1. Click on the Google Colaboratory link on the right side of the repository.
-![alt text](https://github.com/realaryanpatil/Platinum/blob/media/image.jpg?raw=true)
+![alt text](https://github.com/realaryanpatil/Platinum/blob/master/media1.png?raw=true)
 
 ## Acknowledgements
 liver.csv was obtained from Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
