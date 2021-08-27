@@ -24,13 +24,15 @@ Firstly, click the file management button at the right side of the webpage
 
 Then, click on the file upload option and upload the 2 datasets.
 
-![alt text](https://github.com/realaryanpatil/Platinum/blob/master/Media4.png?raw=true)
+
 
 The file will be uploaded and will appear like this.
 
 ![alt text](https://github.com/realaryanpatil/Platinum/blob/master/Media3.png?raw=true)
 
 ### Step 3. Click on the run program button
+
+![alt text](https://github.com/realaryanpatil/Platinum/blob/master/Media4.png?raw=true)
 
 
 ## Acknowledgements
