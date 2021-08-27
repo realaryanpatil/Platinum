@@ -19,7 +19,11 @@ Platinum aims to educate on the applications of Machine Learning in Medicine. We
 
 ### Step 2. Upload the dataset to Google Colaboratory 
 Firstly, click the file management button at the right side of the webpage
+
 ![alt text](https://github.com/realaryanpatil/Platinum/blob/master/media2.png?raw=true)
+
+Then, click on the file upload option and upload the 2 datasets.
+![alt text](https://github.com/realaryanpatil/Platinum/blob/master/Media3.png?raw=true)
 
 ## Acknowledgements
 liver.csv was obtained from Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
