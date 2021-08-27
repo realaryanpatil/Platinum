@@ -23,6 +23,7 @@ Firstly, click the file management button at the right side of the webpage
 ![alt text](https://github.com/realaryanpatil/Platinum/blob/master/media2.png?raw=true)
 
 Then, click on the file upload option and upload the 2 datasets.
+
 ![alt text](https://github.com/realaryanpatil/Platinum/blob/master/Media3.png?raw=true)
 
 ## Acknowledgements
